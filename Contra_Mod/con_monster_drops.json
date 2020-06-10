@@ -1,0 +1,29 @@
+[
+  {
+    "type" : "item_group",
+    "subtype": "collection",
+    "comment": "Contra soldier drops",
+    "id": "soldier_drops",
+    "entries":[
+      { "group": "con_ninemm", "damage": [0, 3], "prob": 15},
+      { "group": "ammo_pistol_reloaded", "prob": 10 },
+	  { "item": "boots_combat", "prob": 50 },
+	  { "item": "gloves_tactical", "prob": 50 },
+	  { "item": "knife_combat", "prob": 10 }
+    ]    
+  },
+  {
+
+    "type" : "item_group",
+    "subtype": "distribution",
+    "id" : "con_ninemm",
+    "ammo": 60,
+    "magazine": 60,
+    "items":[
+      ["glock_19", 30],
+      ["ksub2000", 5],
+      ["l_lookout_9mm", 30],
+      ["l_sp_9mm", 30]
+    ] 
+  }
+]

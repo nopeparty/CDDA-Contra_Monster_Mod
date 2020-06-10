@@ -1,0 +1,27 @@
+{
+  "type": "mod_tileset",
+  "compatibility": [ "MSX++DEAD_PEOPLE", "UNDEAD_PEOPLE", "MX+(Overhaul)", "MshockXottoplus12" ],
+  "tile_info": [
+    {
+      "height": 32,
+      "width": 32
+    }
+  ],
+  "tiles-new": [
+    {
+      "file": "tile/Contra.png",
+      "tiles": 
+      [
+        { "id": "mon_con_soldier",   "fg": 0},
+		{ "id": "mon_con_alien1",   "fg": 1},
+		{ "id": "mon_con_alien2",   "fg": 2},
+		{ "id": "mon_con_alien3",   "fg": 3},
+		{
+          "id": "corpse_mon_con_alien3",
+          "fg": 5,
+          "rotates": false
+        }
+      ]
+    }
+  ]
+}

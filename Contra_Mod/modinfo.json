@@ -1,0 +1,9 @@
+{
+  "type": "MOD_INFO",
+  "ident": "Contra",
+  "name": "Contra enemies",
+  "authors": [ "nopeparty" ],
+  "description": "Add some monsters from contra. Pretty much unbalancing and chaotic. This mod work in progress.",
+  "category": "creatures",
+  "dependencies": ["dda"]
+}
