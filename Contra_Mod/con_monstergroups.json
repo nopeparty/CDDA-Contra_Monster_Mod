@@ -5,31 +5,19 @@
 	"//": "zombies highest freq : 75",
     "default": "mon_null",
     "monsters": [
-      { "monster" : "mon_con_soldier", "freq" : 50, "cost_multiplier" : 0, "pack_size": [1,2] },
+      { "monster" : "mon_con_soldier", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,2] },
 	  { "monster" : "mon_con_alien1", "freq" : 20, "cost_multiplier" : 0, "pack_size": [1,1] },
 	  { "monster" : "mon_con_alien2", "freq" : 20, "cost_multiplier" : 0, "pack_size": [1,1] },
 	  { "monster" : "mon_con_alien3", "freq" : 20, "cost_multiplier" : 0, "pack_size": [1,1] }
     ]
-  },
- {
-    "type":"monstergroup",
-    "name" : "GROUP_ZOMBIE",
-	"//": "zombies highest freq : 75",
-    "default" : "mon_zombie",
-    "monsters" : [
-      { "monster" : "mon_con_soldier", "freq" : 50, "cost_multiplier" : 0, "pack_size": [1,2] },
-	  { "monster" : "mon_con_alien1", "freq" : 20, "cost_multiplier" : 0, "pack_size": [1,1] },
-	  { "monster" : "mon_con_alien2", "freq" : 20, "cost_multiplier" : 0, "pack_size": [1,1] },
-	  { "monster" : "mon_con_alien3", "freq" : 20, "cost_multiplier" : 0, "pack_size": [1,1] }
-                 ]
   }
    ,{
     "type":"monstergroup",
     "name" : "GROUP_VANILLA",
 	"//": "zombies highest freq : 266",
-    "default" : "mon_zombie",
+    "default" : "mon_null",
     "monsters" : [
-            { "monster" : "mon_con_soldier", "freq" : 50, "cost_multiplier" : 0, "pack_size": [1,2] },
+            { "monster" : "mon_con_soldier", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,2] },
 			{ "monster" : "mon_con_alien1", "freq" : 20, "cost_multiplier" : 0, "pack_size": [1,1] },
 			{ "monster" : "mon_con_alien2", "freq" : 20, "cost_multiplier" : 0, "pack_size": [1,1] },
 	  { "monster" : "mon_con_alien3", "freq" : 20, "cost_multiplier" : 0, "pack_size": [1,1] }
@@ -39,9 +27,9 @@
     "type":"monstergroup",
     "name" : "GROUP_ZOMBIE_MID",
 	"//": "zombies highest freq : 75",
-    "default" : "mon_zombie_tough",
+    "default" : "mon_null",
     "monsters" : [
-      { "monster" : "mon_con_soldier", "freq" : 50, "cost_multiplier" : 0, "pack_size": [1,2] },
+      { "monster" : "mon_con_soldier", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,2] },
 	  { "monster" : "mon_con_alien1", "freq" : 20, "cost_multiplier" : 0, "pack_size": [1,1] },
 	  { "monster" : "mon_con_alien2", "freq" : 20, "cost_multiplier" : 0, "pack_size": [1,1] },
 	  { "monster" : "mon_con_alien3", "freq" : 20, "cost_multiplier" : 0, "pack_size": [1,1] }
