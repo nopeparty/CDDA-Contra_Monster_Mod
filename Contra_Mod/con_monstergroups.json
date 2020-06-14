@@ -6,9 +6,9 @@
     "default": "mon_null",
     "monsters": [
       { "monster" : "mon_con_soldier", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,2] },
-	  { "monster" : "mon_con_alien1", "freq" : 20, "cost_multiplier" : 0, "pack_size": [1,1] },
-	  { "monster" : "mon_con_alien2", "freq" : 20, "cost_multiplier" : 0, "pack_size": [1,1] },
-	  { "monster" : "mon_con_alien3", "freq" : 20, "cost_multiplier" : 0, "pack_size": [1,1] }
+	  { "monster" : "mon_con_alien1", "freq" : 20, "cost_multiplier" : 0, "pack_size": [2,2] },
+	  { "monster" : "mon_con_alien2", "freq" : 20, "cost_multiplier" : 0, "pack_size": [2,2] },
+	  { "monster" : "mon_con_alien3", "freq" : 20, "cost_multiplier" : 0, "pack_size": [2,2] }
     ]
   }
    ,{
@@ -18,9 +18,9 @@
     "default" : "mon_null",
     "monsters" : [
             { "monster" : "mon_con_soldier", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,2] },
-			{ "monster" : "mon_con_alien1", "freq" : 20, "cost_multiplier" : 0, "pack_size": [1,1] },
-			{ "monster" : "mon_con_alien2", "freq" : 20, "cost_multiplier" : 0, "pack_size": [1,1] },
-	  { "monster" : "mon_con_alien3", "freq" : 20, "cost_multiplier" : 0, "pack_size": [1,1] }
+			{ "monster" : "mon_con_alien1", "freq" : 20, "cost_multiplier" : 0, "pack_size": [2,2] },
+			{ "monster" : "mon_con_alien2", "freq" : 20, "cost_multiplier" : 0, "pack_size": [2,2] },
+	  { "monster" : "mon_con_alien3", "freq" : 20, "cost_multiplier" : 0, "pack_size": [2,2] }
     ]
   }
   ,{
@@ -30,9 +30,9 @@
     "default" : "mon_null",
     "monsters" : [
       { "monster" : "mon_con_soldier", "freq" : 40, "cost_multiplier" : 0, "pack_size": [2,2] },
-	  { "monster" : "mon_con_alien1", "freq" : 20, "cost_multiplier" : 0, "pack_size": [1,1] },
-	  { "monster" : "mon_con_alien2", "freq" : 20, "cost_multiplier" : 0, "pack_size": [1,1] },
-	  { "monster" : "mon_con_alien3", "freq" : 20, "cost_multiplier" : 0, "pack_size": [1,1] }
+	  { "monster" : "mon_con_alien1", "freq" : 20, "cost_multiplier" : 0, "pack_size": [2,2] },
+	  { "monster" : "mon_con_alien2", "freq" : 20, "cost_multiplier" : 0, "pack_size": [2,2] },
+	  { "monster" : "mon_con_alien3", "freq" : 20, "cost_multiplier" : 0, "pack_size": [2,2] }
     ]
   }
   ,{
@@ -40,8 +40,8 @@
     "name": "GROUP_CONTRA_UPGRADE",
     "default": "mon_null",
     "monsters": [
-	  { "monster" : "mon_con_alien1", "freq" : 20, "cost_multiplier" : 0, "pack_size": [1,1] },
-	  { "monster" : "mon_con_alien2", "freq" : 20, "cost_multiplier" : 0, "pack_size": [1,1] }
+	  { "monster" : "mon_con_alien1", "freq" : 20, "cost_multiplier" : 0, "pack_size": [2,2] },
+	  { "monster" : "mon_con_alien2", "freq" : 20, "cost_multiplier" : 0, "pack_size": [2,2] }
     ]
   }
 ]
