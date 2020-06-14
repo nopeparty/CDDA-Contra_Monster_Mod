@@ -106,7 +106,6 @@
     "death_drops": { "subtype": "collection", "groups": [  ] },
     "death_function": [ "DISINTEGRATE" ],
     "flags": [
-      "ABSORBS",
 	  "SEES",
       "HEARS",
 	  "GOODHEARING",
@@ -157,7 +156,6 @@
     "death_drops": { "subtype": "collection", "groups": [  ] },
     "death_function": [ "DISINTEGRATE" ],
     "flags": [
-      "ABSORBS",
 	  "ATTACKMON",
 	  "SEES",
       "HEARS",
@@ -204,7 +202,6 @@
     "death_drops": { "subtype": "collection", "groups": [  ] },
     "death_function": [ "DISINTEGRATE" ],
     "flags": [
-      "ABSORBS",
 	  "SEES",
       "HEARS",
 	  "GOODHEARING",
