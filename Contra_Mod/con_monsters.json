@@ -42,7 +42,7 @@
       "fake_skills" : [["gun", 2], ["pistol", 2]],
       "move_cost" : 100,
       "targeting_cost" : 30,
-      "ranges" : [[ 0, 6, "DEFAULT" ]],
+      "ranges" : [[ 0, 3, "DEFAULT" ]],
       "description" : "The soldier opens fire!",
       "targeting_sound" : "The soldier takes aim.",
       "targeting_volume" : 15,
